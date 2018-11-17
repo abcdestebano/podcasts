@@ -14,6 +14,6 @@ Requires Node.js > 7v
 * `npm run dev` to start development environment.
 * `npm run build && npm start` to start production environment. 
 
-##License
+## License
 
 MIT
