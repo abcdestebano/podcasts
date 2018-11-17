@@ -1,6 +1,6 @@
 # Podcasts App
 
-Podcast App integrated with the API of Audioboom to learn Next.js,
+Podcast App integrated with the API of Audioboom to learn Next.js.
 
 [Live demo] (https://podcasts-lwdvpuhlga.now.sh/)
 
